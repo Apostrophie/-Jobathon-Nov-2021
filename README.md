@@ -10,3 +10,8 @@ To aid staffing, you are provided with the monthly information for a segment of 
 Demographics of the employee (city, age, gender etc.)
 Tenure information (joining date, Last Date)
 Historical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)
+
+Evaluation Metrics:
+F1 score with macro avg. ~ 93.9
+ROC score of ~ 93.57
+AUC: ~ 0.99
